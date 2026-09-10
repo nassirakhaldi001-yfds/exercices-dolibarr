@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleCustompropalName'
+ModuleCustompropalName = Custompropal
+# Module description 'ModuleCustompropalDesc'
+ModuleCustompropalDesc = Custompropal description
+
+#
+# Admin page
+#
+CustompropalSetup = Custompropal setup
+Settings = Settings
+CustompropalSetupPage = Custompropal setup page
+NewSection=New section
+CUSTOMPROPAL_MYPARAM1 = My param 1
+CUSTOMPROPAL_MYPARAM1Tooltip = My param 1 tooltip
+CUSTOMPROPAL_MYPARAM2=My param 2
+CUSTOMPROPAL_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+CustompropalAbout = About Custompropal
+CustompropalAboutPage = Custompropal about page
+
+#
+# Sample page
+#
+CustompropalArea = Home Custompropal
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description

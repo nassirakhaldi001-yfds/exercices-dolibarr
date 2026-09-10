@@ -1,0 +1,42 @@
+# Translation file
+
+#
+# Generic
+#
+
+# Module label 'ModuleCustomDemoName'
+ModuleCustomDemoName = CustomDemo
+# Module description 'ModuleCustomDemoDesc'
+ModuleCustomDemoDesc = CustomDemo description
+
+#
+# Admin page
+#
+CustomDemoSetup = CustomDemo setup
+Settings = Settings
+CustomDemoSetupPage = CustomDemo setup page
+NewSection=New section
+CUSTOMDEMO_MYPARAM1 = My param 1
+CUSTOMDEMO_MYPARAM1Tooltip = My param 1 tooltip
+CUSTOMDEMO_MYPARAM2=My param 2
+CUSTOMDEMO_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+CustomDemoAbout = About CustomDemo
+CustomDemoAboutPage = CustomDemo about page
+
+#
+# Sample page
+#
+CustomDemoArea = Home CustomDemo
+MyPageName = My page name
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
